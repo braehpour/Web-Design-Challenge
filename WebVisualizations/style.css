@@ -4,7 +4,7 @@ body {
 
 @media (max-width: 750px) {
     .navbar{
-       background-color: lightgrey !important;
+       background-color: darkgray !important;
      }
 
      body {
